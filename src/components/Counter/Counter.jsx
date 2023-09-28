@@ -1,6 +1,4 @@
-// hooks
 import { useState } from "react";
-// styles
 import "./Counter.css"
 import AddToCart from "./AddToCart";
 

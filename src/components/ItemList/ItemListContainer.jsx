@@ -1,12 +1,9 @@
-// hooks 
 import useFetch from "../../hooks/useFetch";
 import { useEffect } from "react";
-// components & style
 import ItemList from "./ItemList";
 import "./ItemListContainer.css";
 import Loader from "../Loader";
 import Error from "../Error/Error";
-// routing
 import { useParams } from "react-router";
 
 const ItemListContainer = () => {

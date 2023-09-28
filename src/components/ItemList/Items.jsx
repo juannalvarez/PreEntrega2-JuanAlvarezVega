@@ -1,6 +1,7 @@
 import Counter from "../Counter/Counter";
 import { Link } from "react-router-dom";
 
+
 const Items = ({ item }) => {
     const itemDesc = item.description;
     const smItemDesc = itemDesc.substring(0, 120);

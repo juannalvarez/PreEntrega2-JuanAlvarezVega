@@ -15,7 +15,6 @@
     justify-items: center;
     gap: 1.75rem;
 }
-
 .loader {
     display: flex;
     align-items: center;

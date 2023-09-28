@@ -1,10 +1,8 @@
 // hooks
 import { useEffect, useState } from "react";
 import useFetch from "../../hooks/useFetch";
-// components
 import ItemDetail from "./ItemDetail";
 import Loader from "../Loader";
-// routing
 import { useParams } from "react-router";
 
 const ItemDetailContainer = () => {

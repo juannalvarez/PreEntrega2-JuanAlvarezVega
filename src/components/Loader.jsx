@@ -1,6 +1,7 @@
 import { useState, CSSProperties } from "react"
 import BarLoader from 'react-spinners/BarLoader';
 
+
 const Loader = () => {
     const [loading, setLoading] = useState(true);
 

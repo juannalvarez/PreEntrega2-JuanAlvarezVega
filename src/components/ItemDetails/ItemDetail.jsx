@@ -2,7 +2,6 @@ import Counter from '../Counter/Counter';
 import './ItemDetailContainer.css';
 
 const ItemDetail = ({ item }) => {
-
     return <>
         <div className='detail-div-child'>
             <img className="detail-img" src={item.image} />
