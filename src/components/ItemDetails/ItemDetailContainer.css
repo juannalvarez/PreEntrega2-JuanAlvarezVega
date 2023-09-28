@@ -1,0 +1,62 @@
+
+.detail-div {
+    width: 50%;
+    padding: 0rem 0;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.detail-img {
+    width: 20rem;
+}
+
+.detail-h2 {
+    margin-bottom: 0;
+    color: #572327;
+}
+
+.detail-p-div {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.detail-p-div div {
+    display: inherit;
+    justify-content: inherit;
+    gap: 0.5rem;
+    border-top: 1px solid #7b8164;
+    border-bottom: 1px solid #572327;
+}
+
+
+.detail-p {
+    font-size: 0.8rem;
+    font-style: bold;
+    padding: 0.06rem 0;
+}
+
+.detail-p-desc {
+    line-height: 1.25;
+}
+
+.detail-price-counter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.detail-h3 {
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+
+
+
